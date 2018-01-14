@@ -1,4 +1,5 @@
 # Simple Book List using React and Redux
+### from Stephen Grider's Modern Reach wirh Redux course in Udemy 
 
 ### Getting Started
 
